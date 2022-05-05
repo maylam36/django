@@ -1,0 +1,5 @@
+{
+    "integration_type": "github",
+    "org": {{org_id}},
+    "org_integration": {{integration_id}}
+}
