@@ -1,0 +1,15 @@
+ {
+        "id": 10000002,
+        "__entity_role__": null,
+        "__entity_type__": "org_integration_collector",
+        "__permissions__": [
+            "org_integration_collector:update_evidence",
+            "org_integration_collector:configure",
+            "org_integration_collector:view_details",
+            "org_integration_collector:ensure_evidence",
+            "org_integration_collector:synchronize",
+            "org_integration_collector:delete"
+        ],
+        "integration_subtype": "pull_requests",
+        "collection_interval": "month"
+        }
